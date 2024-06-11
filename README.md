@@ -14,15 +14,15 @@ Short project description.
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/your-username/your-repo.git
+    [git clone https://github.com/iAmSauravSharan/NSE-Scrapper.git](https://github.com/iAmSauravSharan/NSE-Scrapper.git)
     ```
 
 2. Create and activate a virtual environment:
 
     ```shell
-    python -m venv venv
-    source venv/bin/activate  # For Linux/Mac
-    venv\Scripts\activate  # For Windows
+    python -m venv .venv
+    source .venv/bin/activate  # For Linux/Mac
+    .venv\Scripts\activate  # For Windows
     ```
 
 3. Install the project dependencies:
