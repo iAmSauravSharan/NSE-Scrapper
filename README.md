@@ -1,6 +1,6 @@
-# Project Name
+# NSE Scrapper
 
-Short project description.
+A python script to scrap NSE website
 
 ## Table of Contents
 
