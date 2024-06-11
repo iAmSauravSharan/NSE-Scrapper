@@ -1,5 +1,6 @@
 requests
 PyDrive
+fyers_apiv3
 google-auth
 google-auth-oauthlib
 google-auth-httplib2
